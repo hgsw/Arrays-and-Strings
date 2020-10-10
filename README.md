@@ -1,11 +1,13 @@
 # Arrays-and-Strings
 
 本部分是学习最基本的数据结构**数组** ，因为字符串是由字符数组形成的，所以二者是相似的。
- - 理解二维数组的基本概念和二维数组的使用
- - 能够运用双指针解决问题 
+ - 理解二维数组的基本概念和二维数组的使用。
+ - 能够运用双指针解决问题 。
    - 同向遍历
    - 向向遍历
-
+   
+让我们愉快的看看题目吧。
+![Arrays_and_Strings](https://github.com/hgsw/Arrays-and-Strings/blob/main/Arrays_and_Strings.png)
 > 第一章 数组
 - [寻找数组的中心索引]()
 - [搜索插入位置]()
